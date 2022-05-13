@@ -1,5 +1,4 @@
-##WordPress Automation
-
+#WordPress Automation
 
 ### place_id_and_active_hours.php 
 Location: /google_api/open_hours/
